@@ -1,0 +1,33 @@
+{
+  "name": "google-contacts-oauth",
+  "version": "0.0.1",
+  "description": "Get contacts from Google with OAuth tokens",
+  "author": "Steve Lacy <me@slacy.me> (http://slacy.me)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stevelacy/google-contacts-oauth"
+  },
+  "homepage": "https://github.com/stevelacy/google-contacts-oauth",
+  "dependencies": {
+    "request": "^2.45.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.21.4",
+    "should": "^4.0.4"
+  },
+  "scripts": {
+    "test": "mocha test/"
+  },
+  "keywords": [
+    "google",
+    "contacts",
+    "google-contacts",
+    "gapi",
+    "oauth"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stevelacy/google-contacts-oauth/issues"
+  }
+}
