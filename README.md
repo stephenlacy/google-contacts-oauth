@@ -1,4 +1,5 @@
-# google-contacts-oauth
+# google-contacts-oauth [![NPM version][npm-image]][npm-url]  [![Build Status][travis-image]][travis-url]
+
 > Get contacts from Google with OAuth tokens
 
 
@@ -63,3 +64,9 @@ Max results returned
 [(MIT License)](https://github.com/stevelacy/google-contacts-oauth/blob/master/LICENSE)
 
 Copyright (c) 2014 Steve Lacy me@slacy.me slacy.me
+
+[travis-url]: https://travis-ci.org/stevelacy/google-contacts-oauth
+[travis-image]: https://travis-ci.org/stevelacy/google-contacts-oauth.png?branch=master
+
+[npm-url]: https://npmjs.org/package/google-contacts-oauth
+[npm-image]: http://img.shields.io/npm/v/google-contacts-oauth.svg
