@@ -10,7 +10,7 @@
   },
   "homepage": "https://github.com/stevelacy/google-contacts-oauth",
   "dependencies": {
-    "request": "^2.45.0"
+    "request": "^2.48.0"
   },
   "devDependencies": {
     "mocha": "^1.21.4",
