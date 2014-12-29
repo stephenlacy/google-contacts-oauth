@@ -63,7 +63,7 @@ Max results returned
 
 [(MIT License)](https://github.com/stevelacy/google-contacts-oauth/blob/master/LICENSE)
 
-Copyright (c) 2014 Steve Lacy me@slacy.me slacy.me
+Copyright (c) 2015 Steve Lacy me@slacy.me slacy.me
 
 [travis-url]: https://travis-ci.org/stevelacy/google-contacts-oauth
 [travis-image]: https://travis-ci.org/stevelacy/google-contacts-oauth.png?branch=master
