@@ -4,9 +4,8 @@ var qs = require('querystring');
 var request = require('request');
 
 var buildPath = function(params) {
-  if (params == null) {
-    params = {};
-  }
+  params = params || {};
+
   params.type = 'contacts';
   params.alt = 'json';
   params.projection = params.projection || 'full';
