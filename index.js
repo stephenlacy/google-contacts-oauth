@@ -50,6 +50,10 @@ module.exports = function(opts, cb) {
       data = JSON.parse(data);
       var contacts = [];
       if (data.feed != null) {
+        if (!data.feed.entry) {
+          return cb(null, contacts);
+        }
+
         data.feed.entry.forEach(function(v, k) {
           var ref;
           var contact = {
