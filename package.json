@@ -1,6 +1,6 @@
 {
   "name": "google-contacts-oauth",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Get contacts from Google with OAuth tokens",
   "author": "Steve Lacy <me@slacy.me> (http://slacy.me)",
   "main": "index.js",
